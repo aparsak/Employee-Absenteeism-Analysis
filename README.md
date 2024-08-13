@@ -34,7 +34,7 @@ There are more features available in the dataset. You can explore them further i
     - Analyzed the impact of social drinking and smoking on absenteeism.
     - Examined the relationship between absenteeism and distance to work, as well as transportation expenses using joint plots.
 
-3. **🔎 Insights**:
+3. **Insights**:
     - Absenteeism due to specific reasons such as medical consultations or physiotherapy was prevalent.
     - Alcohol consumption showed a noticeable impact on absenteeism, particularly linked to certain reasons like dental consultations.
     - The violin plot analysis suggested that frequent alcohol consumers tend to have longer absenteeism hours.
@@ -50,10 +50,12 @@ pip install pandas numpy matplotlib seaborn scipy
 
 Load the dataset into a Jupyter Notebook and execute the code cells sequentially. The data preprocessing steps will prepare the dataset, and the subsequent analysis cells will generate visualizations and insights.
 
-### 🔮 Future Work
+## 🔮 Future Work
 - Explore more advanced machine learning models to predict absenteeism.
 - Conduct deeper analysis on the impact of other categorical variables.
 - Implement further data transformation and feature engineering techniques.
+
+##
 
 This project was part of the Data Mining Course at Amirkabir University of Technology.
 
